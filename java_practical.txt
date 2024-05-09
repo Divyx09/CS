@@ -6,4 +6,8 @@ Write a Program to show Inheritance ?
 Write a program to show Polymorphism ?
 Write a program to show Access Specifiers (Public, Private, Protected) in JAVA ?
 Write a program to show use and Advantages of CONSTRUCTOR ? 
+Write a program to show Interfacing between two classes ?
 Write a program to Add a Class to a Package ?
+Write a program to show Life Cycle of a Thread 
+Write a program to demonstrate AWT ?
+Write a program to Hide a Class ?
