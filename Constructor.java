@@ -1,4 +1,3 @@
-
 public class Constructor {
 
     private final String model;

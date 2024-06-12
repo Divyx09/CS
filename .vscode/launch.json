@@ -1,0 +1,130 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "JDBCConnectivity",
+            "request": "launch",
+            "mainClass": "JDBCConnectivity",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "DataBaseConnect",
+            "request": "launch",
+            "mainClass": "DataBaseConnect",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "packagedemo.demo",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "AwtIntro",
+            "request": "launch",
+            "mainClass": "AwtIntro",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ThreadIntro",
+            "request": "launch",
+            "mainClass": "ThreadIntro",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Hide",
+            "request": "launch",
+            "mainClass": "packageHide.Hide",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Interface",
+            "request": "launch",
+            "mainClass": "Interface",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "InnerAccesSpecifier",
+            "request": "launch",
+            "mainClass": "InnerAccesSpecifier",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Polymorphism",
+            "request": "launch",
+            "mainClass": "Polymorphism",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "Inheritance",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ExceptionHandling",
+            "request": "launch",
+            "mainClass": "ExceptionHandling",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "ClassDemo",
+            "request": "launch",
+            "mainClass": "ClassDemo",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "VariableScope",
+            "request": "launch",
+            "mainClass": "VariableScope",
+            "projectName": ""
+        },
+        {
+            "type": "java",
+            "name": "DatabaseSetup",
+            "request": "launch",
+            "mainClass": "DatabaseSetup",
+            "projectName": "CS-406 programming practices_2435d776"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}/.appmap/lib/java/appmap.jar"
+        },
+        {
+            "type": "java",
+            "name": "Run with AppMap",
+            "request": "launch",
+            "mainClass": "",
+            "vmArgs": "-javaagent:${userHome}\\.appmap\\lib\\java\\appmap.jar"
+        }
+    ]
+}
